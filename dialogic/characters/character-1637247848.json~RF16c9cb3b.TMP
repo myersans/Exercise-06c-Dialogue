@@ -1,0 +1,36 @@
+{
+	"color": "#ff74b816",
+	"description": "",
+	"display_name": "",
+	"display_name_bool": false,
+	"id": "character-1637247848.json",
+	"mirror_portraits": false,
+	"name": "Player",
+	"nickname": "",
+	"nickname_bool": false,
+	"offset_x": 0,
+	"offset_y": 0,
+	"portraits": [
+		{
+			"name": "Default",
+			"path": ""
+		},
+		{
+			"name": "cyborgFemaleA",
+			"path": "res://Assets/cyborgFemaleA.png"
+		},
+		{
+			"name": "Player_Portrait",
+			"path": "res://Assets/Player_Portrait.png"
+		},
+		{
+			"name": "zombieA",
+			"path": "res://Assets/zombieA.png"
+		},
+		{
+			"name": "Zombie_Portrait",
+			"path": "res://Assets/Zombie_Portrait.png"
+		}
+	],
+	"scale": 100
+}
